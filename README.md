@@ -1,4 +1,4 @@
-# 🔍 safe-skill-copy v3.0
+# 🔍 Skill Hub v3.0
 
 **Skill全链路助手：从搜索到安装到学习的完整解决方案**
 
@@ -53,12 +53,12 @@
 1. **克隆仓库到Claude skills目录**
 ```bash
 cd ~/.claude/skills
-git clone https://github.com/wanghui2323/safe-skill-copy.git
+git clone https://github.com/wanghui2323/skill-hub.git
 ```
 
 2. **重启Claude Code**
 
-就这么简单！safe-skill-copy会自动激活。
+就这么简单！skill-hub会自动激活。
 
 ### 使用示例
 
@@ -113,7 +113,7 @@ Claude会：
 
 ## 📊 功能对比
 
-| 传统方式 | safe-skill-copy |
+| 传统方式 | skill-hub |
 |---------|----------------|
 | ❌ 手动在GitHub搜索 | ✅ 三层智能搜索（官方+社区+全平台）|
 | ❌ 不知道质量好坏 | ✅ 六维安全评分 |
@@ -277,8 +277,8 @@ git push origin feature/your-feature
 
 ## 📞 联系方式
 
-- **Issues**: [GitHub Issues](https://github.com/wanghui2323/safe-skill-copy/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/wanghui2323/safe-skill-copy/discussions)
+- **Issues**: [GitHub Issues](https://github.com/wanghui2323/skill-hub/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/wanghui2323/skill-hub/discussions)
 - **Email**: 645447086@qq.com
 
 ---
@@ -287,7 +287,7 @@ git push origin feature/your-feature
 
 如果这个项目对您有帮助，请给我们一个⭐Star！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wanghui2323/safe-skill-copy&type=Date)](https://star-history.com/#wanghui2323/safe-skill-copy&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=wanghui2323/skill-hub&type=Date)](https://star-history.com/#wanghui2323/skill-hub&Date)
 
 ---
 

@@ -1,9 +1,9 @@
 ---
-name: safe-skill-copy
+name: skill-hub
 description: Complete Skill lifecycle assistant - SEARCH Skills (3-tier 16 official + 160+ curated + unlimited GitHub), EVALUATE with 6-dimensional scoring, INSTALL with one command, LEARN construction patterns. Triggers - Search:"帮我找Skill". Evaluate:"评估这个Skill". Install:"安装这个Skill". Learn:"怎么构建类似的Skill".
 ---
 
-# Safe Skill Copy v3.0
+# Skill Hub v3.0
 
 **Skill全链路助手：搜索 → 评估 → 安装 → 构建**
 

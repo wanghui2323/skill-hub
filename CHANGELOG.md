@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [3.0.0] - 2026-03-02
 
+### Changed
+- **Renamed project from `safe-skill-copy` to `skill-hub`**
+  - Better reflects the complete skill lifecycle management capabilities
+  - Repository: https://github.com/wanghui2323/skill-hub
+  - Old URL automatically redirects to new one
+
+## [3.0.0-initial] - 2026-03-02
+
 ### Added
 
 #### 新功能
