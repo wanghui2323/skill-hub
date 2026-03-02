@@ -1,6 +1,6 @@
 ---
 name: safe-skill-copy
-description: Complete Skill lifecycle assistant - SEARCH Skills (180+ indexed), EVALUATE with 6-dimensional scoring, INSTALL with one command, LEARN construction patterns. Triggers - Search:"帮我找Skill". Evaluate:"评估这个Skill". Install:"安装这个Skill". Learn:"怎么构建类似的Skill".
+description: Complete Skill lifecycle assistant - SEARCH Skills (3-tier 16 official + 160+ curated + unlimited GitHub), EVALUATE with 6-dimensional scoring, INSTALL with one command, LEARN construction patterns. Triggers - Search:"帮我找Skill". Evaluate:"评估这个Skill". Install:"安装这个Skill". Learn:"怎么构建类似的Skill".
 ---
 
 # Safe Skill Copy v3.0
@@ -8,7 +8,7 @@ description: Complete Skill lifecycle assistant - SEARCH Skills (180+ indexed), 
 **Skill全链路助手：搜索 → 评估 → 安装 → 构建**
 
 > 🎉 v3.0 Major Update: 完整Skill生命周期支持
-> - 🔍 搜索：180+ Skills智能搜索
+> - 🔍 搜索：三层架构智能搜索（官方+精选+GitHub全平台）
 > - ✅ 评估：六维安全评分
 > - 📦 安装：一键直接安装
 > - 🛠️ 构建：学习构建经验
@@ -21,8 +21,11 @@ Automatically find Skills based on your requirements - no need to know specific 
 
 **How it works:**
 1. User describes their need in natural language (Chinese or English)
-2. System expands keywords and searches multiple sources (180+ Skills)
-3. Results ranked by relevance with descriptions
+2. System expands keywords and searches 3-tier sources:
+   - L1: Anthropic official (16 Skills, highest quality)
+   - L2: awesome-claude-skills (160+ curated, community verified)
+   - L3: GitHub code search (unlimited, real-time discovery, up to 200 results)
+3. Results ranked by relevance (top 10 shown from 200+ candidates)
 4. Top matches automatically evaluated for security
 
 **Example queries:**
